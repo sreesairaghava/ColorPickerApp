@@ -13,6 +13,7 @@
 		0428F940244AD14000B37EAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0428F93F244AD14000B37EAC /* Assets.xcassets */; };
 		0428F943244AD14000B37EAC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0428F942244AD14000B37EAC /* Preview Assets.xcassets */; };
 		0428F946244AD14000B37EAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0428F944244AD14000B37EAC /* LaunchScreen.storyboard */; };
+		0428F94E244AD74400B37EAC /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0428F94D244AD74400B37EAC /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0428F942244AD14000B37EAC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0428F945244AD14000B37EAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0428F947244AD14000B37EAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0428F94D244AD74400B37EAC /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0428F939244AD13E00B37EAC /* AppDelegate.swift */,
 				0428F93B244AD13E00B37EAC /* SceneDelegate.swift */,
 				0428F93D244AD13E00B37EAC /* ContentView.swift */,
+				0428F94D244AD74400B37EAC /* SliderView.swift */,
 				0428F93F244AD14000B37EAC /* Assets.xcassets */,
 				0428F944244AD14000B37EAC /* LaunchScreen.storyboard */,
 				0428F947244AD14000B37EAC /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0428F93A244AD13E00B37EAC /* AppDelegate.swift in Sources */,
+				0428F94E244AD74400B37EAC /* SliderView.swift in Sources */,
 				0428F93C244AD13E00B37EAC /* SceneDelegate.swift in Sources */,
 				0428F93E244AD13E00B37EAC /* ContentView.swift in Sources */,
 			);
